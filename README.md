@@ -1,8 +1,8 @@
 # readme
 <h1 align="center">Hi 👋, I'm Büşra Kocakuşaklı</h1>
-<h3 align="center">A passionate Frontend developer from Turkey</h3>
+<h3 align="center">A passionate IOS developer from Turkey</h3>
 
-- 🌱 I’m currently learning **vue.js, c#, php, java, html**
+- 🌱 I’m currently learning **Swift, vue.js, c#, php, java, html**
 
 - Connection with me: [linkedin.com/in/busrakocakusakli](linkedin.com/in/busrakocakusakli)
 
